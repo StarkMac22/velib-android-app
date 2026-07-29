@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VelibApp</string>
+    <string name="title_activity_maps">VelibApp</string>
+    <string name="menu_account">Mon compte</string>
+    <string name="menu_how_to">Comment utiliser Vélib\'</string>
+    <string name="menu_contact">Nous contacter</string>
+    <string name="menu_favorites">Mes stations favorites</string>
+</resources>
